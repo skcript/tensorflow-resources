@@ -32,5 +32,4 @@ for i in range(10):
 
     weight = weight + (learning_rate * gradient)
 
-    print 'Weight: ', weight
-    print ''
+    print 'Weight: ', weight, '\n'
