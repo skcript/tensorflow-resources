@@ -5,46 +5,46 @@ Curated Tensorflow code resources to help you get started with Deep Learning.
 Each folder in this repo is named after a section of Deep Learning.
 
 For example,
-the [basics]() folder contains code to get you started with the syntax of Tensorflow (or TF). The [projects]() folder contains real world predictions and classifications using TF.
+the [basics](basics) folder contains code to get you started with the syntax of Tensorflow (or TF). The [projects](projects) folder contains real world predictions and classifications using TF.
 
-Sometimes folders are also named with their respective algorithm names, like the [regression]() and [convolution_networks] folders.
+Sometimes folders are also named with their respective algorithm names, like the [regression](regression) and [convolution_networks](convolution_networks) folders.
 
 ## How do I use this repo?
-Start out with the [hello_tensorflow.py] file, then checkout the [basics]()
-folder, work your way through [basic_networks](), [costs_and_gradients], and finally [regression]() and [classification](). By this time, you should be comfortable enough to work with other complicated resources in this repo.
+Start out with the [hello_tensorflow.py](hello_tensorflow.py) file, then checkout the [basics](basics)
+folder, work your way through [basic_networks](basic_networks), [costs_and_gradients](costs_and_gradients), and finally [regression](regression) and [classification](classification). By this time, you should be comfortable enough to work with other complicated resources in this repo.
 
 ## What's in this repo?
-1. [hello_tensorflow.py]()
+1. [hello_tensorflow.py](hello_tensorflow.py)
 Contains a simple beginner level introduction to Tensorflow.
 
-2. [basics]()
+2. [basics](basics)
 Contains code resources to get familiar with the syntax of Tensorflow.
 
-3. [costs_and_gradients]()
+3. [costs_and_gradients](costs_and_gradients)
 Contains,
-- [hand_made_descent.py]()
-- [plotting_cost.py]()
+- [hand_made_descent.py](costs_and_gradients/hand_made_descent.py)
+- [plotting_cost.py](costs_and_gradients/plotting_cost.py)
 
-4. [basic_networks]()
+4. [basic_networks](basic_networks)
 Contains,
-- [basic_tf_network.py]()
-- [basic_tf_with_hidden_network.py]()
+- [basic_tf_network.py](basic_networks/basic_tf_network.py)
+- [basic_tf_with_hidden_network.py](basic_networks/basic_tf_with_hidden_network.py)
 
-5. [regression]()
+5. [regression](regression)
 Contains,
-- [linear_regression.py]()
-- [logistic_regression.py]()
+- [linear_regression.py](regression/linear_regression.py)
+- [logistic_regression.py](regression/logistic_regression.py)
 
-6. [classification]()
+6. [classification](classification)
 Contains,
-- [softmax_classification.py]
+- [softmax_classification.py](classification/softmax_classification.py)
 
-7. [convolution_networks]()
+7. [convolution_networks](convolution_networks)
 Contains,
-- [Cifar10]()
-- [MNIST]()
+- [Cifar10](convolution_networks/Cifar10_img_recognition)
+- [MNIST](convolution_networks/MNIST_img_recognition)
 
-8. [projects]()
+8. [projects](projects)
 Contains,
-- [predicting_house_prices]()
-- [predicting_onset_of_diabetes]()
+- [predicting_house_prices](projects/predicting_house_prices)
+- [predicting_onset_of_diabetes](projects/predicting_onset_of_diabetes)
