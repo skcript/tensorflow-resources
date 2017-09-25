@@ -1,5 +1,7 @@
-# tensorflow-resources
+# TensorFlow Resources
 Curated Tensorflow code resources to help you get started with Deep Learning.
+
+![TensorFlow Image](tensorflow_image.png)
 
 ## How is this repo structured?
 Each folder in this repo is named after a section of Deep Learning.
@@ -40,3 +42,34 @@ folder, work your way through [basic_networks](basic_networks), [costs_and_gradi
 - [projects](projects)
   - [predicting_house_prices](projects/predicting_house_prices)
   - [predicting_onset_of_diabetes](projects/predicting_onset_of_diabetes)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+	MIT License
+
+	Copyright (c) 2017 Skcript
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
+
+## About
+
+![Skcript](http://www.skcript.com/static/skcript_norm.png)
+
+This project is maintained by Skcript. The names and logos for
+Skcript are properties of Skcript.
+
+We love open source, and we have been doing quite a bit of contributions to the community. Take a look at them [here][skcriptoss]. Also, encourage people around us to get involved in community [operations][community]. [Join us][hiring], if you'd like to see the world change from our HQ.
+
+[skcriptoss]: http://skcript.github.io/
+[community]: http://discourse.skcript.com/
+[hiring]: http://www.skcript.com/careers?utm_source=github
