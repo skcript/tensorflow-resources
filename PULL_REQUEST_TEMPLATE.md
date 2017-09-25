@@ -1,22 +1,25 @@
 ## Proposed changes
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+Describe the items you've added to this Pull Request.
+
+Example:
+
+    Added new source from [link #1](#)
 
 ## Types of changes
 
-What types of changes does your code introduce to this project?
+What type of changes were made in this PR?
+
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] New Resource (non-breaking change which adds functionality)
 
 ## Checklist
 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
 
-- [ ] Lint and unit tests [rubocop](https://github.com/bbatsov/rubocop) or any other testing tool pass locally with my changes
-- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have verified and checked the language used in this PR
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
 
